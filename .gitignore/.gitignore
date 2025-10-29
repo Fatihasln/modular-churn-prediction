@@ -1,0 +1,12 @@
+# Python tarafından oluşturulan dosyalar
+__pycache__/
+*.pyc
+
+# Veri dosyaları
+data/HR_Dataset.csv
+data/*.csv
+
+# Kaydedilen model ve transformer dosyaları
+models/
+*.pkl
+*.h5

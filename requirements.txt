@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+# Gerekliyse:
+# matplotlib
+# seaborn
+# plotly
+# xgboost
